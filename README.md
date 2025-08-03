@@ -1,4 +1,4 @@
-# Library_Management_System(LMS)_SQL
+# Library_Management_System(LMS)_SQL by Karan Raj
 Developing a Library Management System from scratch using SQL
 
 # Problem
